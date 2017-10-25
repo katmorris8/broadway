@@ -5,19 +5,15 @@ body {
 
 a {
   color: white;
+  font-size: 18px;
 }
 
 .white {
   color: white;
 }
 
-.nav {
-  font-size: 18px;
-  color: white;
-}
-
 #flatiron {
-  background-image: url("/resources/images/the-flatiron-building.png");
+  background-image: url("../images/the-flatiron-building.png");
 }
 .bold {
   font-weight: bold;
